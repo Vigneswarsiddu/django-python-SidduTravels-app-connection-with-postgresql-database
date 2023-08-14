@@ -1,1 +1,1 @@
-# django-python-Travelapp-connection-with-postgresql-database
+# django-python-SidduTravels-app-connection-with-postgresql-database
